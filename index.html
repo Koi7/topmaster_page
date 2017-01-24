@@ -1,32 +1,76 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta lang="ru">
-    <mata charset="utf-8">
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-  </head>
-  <style>
-    div#container{
-      margin-top: 5%;
-    }
-    div#top{
-      margin-bottom: 1%;
-    }
-  </style>
-<body>
-  <div id="container">
-    <div id="top">
-      <div class="col-md-12">
-        <div id="logo-wrapper">
-          <img width="700" class="img-responsive" src="images/logo.png" alt="логотип">
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta lang="ru">
+      <mata charset="utf-8">
+      <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    </head>
+    <style>
+      div#container{
+      }
+      div#top{
+        background-image: url(images/top_background.jpg);
+        -webkit-box-shadow: inset -1px -9px 27px -7px rgba(0,0,0,0.75);
+        -moz-box-shadow: inset -1px -9px 27px -7px rgba(0,0,0,0.75);
+        box-shadow: inset -1px -9px 27px -7px rgba(0,0,0,0.75);
+      }
+      div#logo-wrapper{
+        width: 700px;
+        margin: 0 auto;
+      }
+      h3.info-title, div.info-icon{
+        text-align: center;
+      }
+      div.info-column{
+        padding-left: 5%;
+        padding-right: 5%;
+      }
+      div.col-md-12{
+        padding: 0;
+      }
+      html{
+        width:100%;
+        overflow-y: scroll;
+        overflow-x: hidden;
+      }
+    </style>
+  <body>
+    <div id="container">
+      <div id="top" class="row">
+        <div class="col-md-12">
+          <div id="logo-wrapper">
+            <img width="700" class="img-responsive" src="images/logo.png" alt="логотип">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="info-column col-md-4">
+            <h3 class="info-title">
+              <span class="glyphicon glyphicon-map-marker"></span>
+              <br>
+              Карта
+            </h3>
+            <div class="row">
+              <h4>г. Севастополь, пр-т Нахимова 11, офис № 11</h4>
+              <div id="map"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=4Otv5BEKRC7AaTBfpMROdA-fgL5ZeTkL&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true">
+            </script></div>
+            </div>
+        </div>
+        <div class="info-column col-md-4">
+            <h3 class="info-title">
+              <span class="glyphicon glyphicon-list"></span>
+              <br>
+              Услуги и цены
+            </h3>
+        </div>
+        <div class="info-column col-md-4">
+            <h3 class="info-title">
+              <span class="glyphicon glyphicon-earphone"></span>
+              <br>
+              Контакты
+            </h3>
         </div>
       </div>
     </div>
-    <div class="row bg-info">
-      <div class="col-md-4">.col-md-4</div>
-      <div class="col-md-4">.col-md-4</div>
-      <div class="col-md-4">.col-md-4</div>
-    </div>
-  </div>
-</body>
-</html>
+  </body>
+  </html>
