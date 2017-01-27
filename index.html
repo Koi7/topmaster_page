@@ -22,6 +22,7 @@
         -webkit-box-shadow: inset -1px 3px 23px -1px rgba(0,0,0,0.75);
         -moz-box-shadow: inset -1px 3px 23px -1px rgba(0,0,0,0.75);
         box-shadow: inset -1px 3px 23px -1px rgba(0,0,0,0.75);
+        margin-top: 2%; 
       }
       div#top img{
         display: inline;
@@ -32,6 +33,9 @@
       }
       h3.info-title, div.info-icon{
         text-align: center;
+      }
+      h3.info-title{
+        padding: 2%;
       }
       h3.info-title img{
         margin: 0 auto;
@@ -62,6 +66,9 @@
         display: inline-block;
         vertical-align: middle;
       }
+      td.right{
+        text-align: right;
+      }
     </style>
   <body>
     <div class="container-fluid">
@@ -71,21 +78,8 @@
         </div>
       </div>
       <div class="row">
-        <div class="info-column col-md-4">
-            <h3 class="info-title">
-              <span class="glyphicon glyphicon-map-marker"></span>
-              <br>
-              Карта
-            </h3>
-            <div class="row">
-              <h4>г. Севастополь, пр-т Нахимова 11, офис № 11</h4>
-              <div id="map"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=4Otv5BEKRC7AaTBfpMROdA-fgL5ZeTkL&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true">
-            </script>
-            </div>
-            </div>
-        </div>
-        <div class="info-column col-md-4">
-            <h3 class="info-title">
+        <div class="info-column col-md-8">
+            <h3 class="info-title bg-info">
               <span class="glyphicon glyphicon-list"></span>
               <br>
               Услуги и цены
@@ -93,74 +87,66 @@
             <div class="table-responsive">
               <table class="table">
               <tr>
-                <td><h3><h4>Замена дисплея</h4></h3></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td><h3><h4>Замена дисплея</h4></h3></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td><h3><h4>Замена дисплея</h4></h3></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
-                <td>Телефон</td>
-                <td>500р</td>
-              </tr>
-              <tr>
                 <td><h4>Замена дисплея</h4></td>
                 <td></td>
               </tr>
               <tr>
                 <td>Телефон</td>
-                <td>500р</td>
+                <td class="right">500р</td>
+              </tr>
+              <tr>
+                <td>Планщет</td>
+                <td class="right">950р</td>
+              </tr>
+              <tr>
+                <td>Ноутбук</td>
+                <td class="right">1200р</td>
+              </tr>
+              <tr>
+                <td><h4>Замена сенсора</h4></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Телефон</td>
-                <td>500р</td>
+                <td class="right">500р</td>
+              </tr>
+              <tr>
+                <td>Планшет</td>
+                <td class="right">950р</td>
+              </tr>
+              <tr>
+                <td><h4>Замена клавиатуры</h4></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Телефон</td>
-                <td>500р</td>
+                <td class="right">500р</td>
+              </tr>
+              <tr>
+                <td>Ноутбук</td>
+                <td class="right">1200р</td>
+              </tr>
+              <tr>
+                <td><h4>Восстановление после попадания воды</h4></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td class="right">500р</td>
+              </tr>
+              <tr>
+                <td>Планшет</td>
+                <td class="right">950р</td>
+              </tr>
+              <tr>
+                <td>Ноутбук</td>
+                <td class="right">1200р</td>
               </tr>
             </table>
           </div>
         </div>
         <div class="info-column col-md-4">
-            <h3 class="info-title">
+            <h3 class="info-title bg-info">
               <span class="glyphicon glyphicon-earphone"></span>
               <br>
               Контакты
@@ -173,11 +159,25 @@
                 </tr>
                 <tr>
                   <td>Адрес:</td>
-                  <td><h4>г. Севастополь, пр-т Нахимова 11, офис № 11</h4></td>
+                  <td><h4>г. Севастополь,<br> пр-т Нахимова 11,<br> офис № 11</h4></td>
                 </tr>
                 <tr>
                   <td>Группа в ВК:</td>
                   <td><a href="#"><img width="50" class="img-responsive" src="images/vk_ico.png"></td>
+                </tr>
+              </table>
+            </div>
+            <h3 class="info-title bg-info">
+                <span class="glyphicon glyphicon-map-marker"></span>
+                <br>
+                Карта
+            </h3>
+            <div class="table-responsive">
+              <table>
+                <tr>
+                  <td>
+                    <a href="https://yandex.ru/maps/?um=constructor%3A4Otv5BEKRC7AaTBfpMROdA-fgL5ZeTkL&amp;source=constructorStatic" target="_blank"><img src="https://api-maps.yandex.ru/services/constructor/1.0/static/?sid=4Otv5BEKRC7AaTBfpMROdA-fgL5ZeTkL&amp;width=366&amp;height=337&amp;lang=ru_RU&amp;sourceType=constructor" alt="" style="border: 0;" /></a>
+                  </td>
                 </tr>
               </table>
             </div>
