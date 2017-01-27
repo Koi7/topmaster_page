@@ -3,16 +3,28 @@
     <head>
       <meta lang="ru">
       <mata charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     </head>
     <style>
       div#container{
       }
-      div#top{
+      div#top, div.bottom {
         background-image: url(images/top_background.jpg);
+        text-align: center;
+      }
+      div#top{
         -webkit-box-shadow: inset -1px -9px 27px -7px rgba(0,0,0,0.75);
         -moz-box-shadow: inset -1px -9px 27px -7px rgba(0,0,0,0.75);
         box-shadow: inset -1px -9px 27px -7px rgba(0,0,0,0.75);
+      }
+      div.bottom{
+        -webkit-box-shadow: inset -1px 3px 23px -1px rgba(0,0,0,0.75);
+        -moz-box-shadow: inset -1px 3px 23px -1px rgba(0,0,0,0.75);
+        box-shadow: inset -1px 3px 23px -1px rgba(0,0,0,0.75);
+      }
+      div#top img{
+        display: inline;
       }
       div#logo-wrapper{
         width: 700px;
@@ -21,10 +33,12 @@
       h3.info-title, div.info-icon{
         text-align: center;
       }
+      h3.info-title img{
+        margin: 0 auto;
+      }
       div.info-column{
         padding-left: 5%;
         padding-right: 5%;
-        font-size: 24vw;
       }
       div.col-md-12{
         padding: 0;
@@ -34,14 +48,26 @@
         overflow-y: scroll;
         overflow-x: hidden;
       }
+      table{
+        margin: 0 auto;
+        vertical-align: top;
+      }
+      table>tr>td{
+        text-align: center;
+      }
+      td>h4{
+        margin-top: 0; 
+      }
+      span.v-center{
+        display: inline-block;
+        vertical-align: middle;
+      }
     </style>
   <body>
-    <div id="container">
+    <div class="container-fluid">
       <div id="top" class="row">
         <div class="col-md-12">
-          <div id="logo-wrapper">
-            <img width="700" class="img-responsive" src="images/logo.png" alt="логотип">
-          </div>
+          <img width="700" class="img-responsive" src="images/logo.png" alt="логотип">
         </div>
       </div>
       <div class="row">
@@ -54,7 +80,8 @@
             <div class="row">
               <h4>г. Севастополь, пр-т Нахимова 11, офис № 11</h4>
               <div id="map"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=4Otv5BEKRC7AaTBfpMROdA-fgL5ZeTkL&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true">
-            </script></div>
+            </script>
+            </div>
             </div>
         </div>
         <div class="info-column col-md-4">
@@ -63,6 +90,74 @@
               <br>
               Услуги и цены
             </h3>
+            <div class="table-responsive">
+              <table class="table">
+              <tr>
+                <td><h3><h4>Замена дисплея</h4></h3></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td><h3><h4>Замена дисплея</h4></h3></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td><h3><h4>Замена дисплея</h4></h3></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td><h4>Замена дисплея</h4></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+              <tr>
+                <td>Телефон</td>
+                <td>500р</td>
+              </tr>
+            </table>
+          </div>
         </div>
         <div class="info-column col-md-4">
             <h3 class="info-title">
@@ -70,8 +165,25 @@
               <br>
               Контакты
             </h3>
+            <div class="table-responsive">
+              <table class="table">
+                <tr>
+                  <td>Тел.:</td>
+                  <td><h4>+7 978 700 66 30</h4></td>
+                </tr>
+                <tr>
+                  <td>Адрес:</td>
+                  <td><h4>г. Севастополь, пр-т Нахимова 11, офис № 11</h4></td>
+                </tr>
+                <tr>
+                  <td>Группа в ВК:</td>
+                  <td><a href="#"><img width="50" class="img-responsive" src="images/vk_ico.png"></td>
+                </tr>
+              </table>
+            </div>
         </div>
       </div>
+      <div class="row bottom"><h3><span class="v-center">&copy TOPMASTER, 2017</span></h3></div>
     </div>
   </body>
   </html>
