@@ -26,7 +26,7 @@ def append_clicker(table, temp):
 	return
 def get_icon(temp):
 	span = temp.new_tag('span')
-	span['class'] = 'glyphicon glyphicon-ruble'
+	span['class'] = 'glyphicon glyphicon-chevron-left'
 	return span
 def name(src):
 	from transliterate import translit, get_available_language_codes
@@ -42,9 +42,11 @@ lines = filter(None, [x.strip() for x in content])
 with open('template.html') as f:
     template = f.read().replace('\n', '')
 # DECLARE VARS
+HEADER = BeautifulSoup('<div class="list-group" id="myUL"></div>', 'html.parser')
 major = BeautifulSoup("", 'html.parser')
 temp = BeautifulSoup("", 'html.parser')
 append_to_temp = []
+headers = []
 count = 0
 max = len(lines)
 max = 0
@@ -53,16 +55,13 @@ while i < (len(lines) - 2):
 	# i is text
 	tr = create_row(temp)
 	tr.find_all('td')[0].string = lines[i]
-	# WRAP STR TO H4
-	h4 = temp.new_tag('h5')
-	tr.find_all('td')[0].string.wrap(h4)
 	# next item analisys
 	if lines[i+1].endswith('.') or lines[i+1].endswith('%'):
 		# INFO!!!
 		# PRICE
 		tr.find_all('td')[1].string = lines[i+1]
 		tr.find_all('td')[1]['class'] = 'right'
-		#DISPLAY WAS HERE
+		tr['style'] = 'display: none;'
 		# APPEND TO LIST
 		append_to_temp.append(tr)
 		# SET I
@@ -80,12 +79,13 @@ while i < (len(lines) - 2):
 			page.find_all('div', class_='info-column col-md-8')[0].append(div)
 			file_n  = name(tr.find_all('td')[0].string)
 			path = 'services/' + file_n
-			with open(path, 'w+') as service:
-				service.write(page.prettify(formatter='minimal').encode('utf8'))
 			# BUILD TEMPLATE
 			# WRAP STRING TO A
-			a = temp.new_tag('a')
+			a = HEADER.new_tag('a')
 			a['href'] = path
+			a.string = append_to_temp[0].find_all('td')[0].string
+			a['class'] = 'list-group-item'
+			headers.append(a)
 			append_to_temp[0].find_all('td')[0].string.wrap(a)
 			# END BUILD TEMPLATE
 			major.append(div)
@@ -95,30 +95,16 @@ while i < (len(lines) - 2):
 		tr.find_all('td')[0].string = lines[i]
 		tr.find_all('td')[0].string.wrap(temp.new_tag('h4'))
 		tr.find_all('td')[1].append(get_icon(temp))
+		tr['class'] = 'clicker'
 		# APPEND TO LIST
 		append_to_temp.append(tr)
 		# SET I
 		i += 1
-if len(append_to_temp) is not 0:
-	# PACK !!!!
-	div = create_div(temp)
-	for row in append_to_temp:
-		div.table.append(row)
-	# BUILD TEMPLATE
-	page = BeautifulSoup(template, 'html.parser')
-	page.find_all('div', class_='info-column col-md-8')[0].append(div)
-	file_n  = name(tr.find_all('td')[0].string)
-	path = 'services/' + file_n
-	with open(path, 'w+') as service:
-		service.write(page.prettify(formatter='minimal').encode('utf8'))
-	# BUILD TEMPLATE
-	# WRAP STRING TO A
-	a = temp.new_tag('a')
-	a['href'] = path
-	append_to_temp[0].find_all('td')[0].string.wrap(a)
-	# END BUILD TEMPLATE
-	major.append(div)
-	append_to_temp = []
 # WRITE OUT THE RESULT
-with open('out.txt', 'w+') as out:
-	out.write(major.prettify(formatter='minimal').encode('utf8'))
+for header in headers:
+	text = header.get_text("|")
+	new = text.split("|")[0]
+	header.string = new
+	HEADER.div.append(header)
+with open('out_v2.txt', 'w+') as out:
+	out.write(HEADER.prettify(formatter='minimal').encode('utf8'))

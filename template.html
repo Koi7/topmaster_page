@@ -15,37 +15,7 @@
       <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
 
       <link rel="icon" href="images/icon.png">
-
-      <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js" async></script> 
-
-      <script type="text/javascript">
-        window.onload = function () {
-          $('.clicker').click(function(){
-            $(this).nextUntil('.clicker').slideToggle('normal');
-            $(".glyphicon-chevron-left", this).toggleClass('rotated');
-          });        
-        }
-      </script>
-      <script>
-        function myFunction() {
-            // Declare variables
-            var input, filter, ul, li, a, i;
-            input = document.getElementById('myInput');
-            filter = input.value.toUpperCase();
-            ul = document.getElementById("myUL");
-            li = ul.getElementsByTagName('a');
-
-            // Loop through all list items, and hide those who don't match the search query
-            for (i = 0; i < li.length; i++) {
-                a = li[i];
-                if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                    li[i].style.display = "";
-                } else {
-                    li[i].style.display = "none";
-                }
-            }
-        }
-      </script>
+      
     </head>
 
     <style>
@@ -170,105 +140,6 @@ box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
       Услуги и цены
      </br>
     </h3>
-
-    <div class="input-group">
-      <span class="input-group-addon" id="basic-addon3">&#128270;</span>
-      <input type="text" class="form-control input-lg" placeholder="Что ремонтировать?" onkeyup="myFunction()" id="myInput" aria-describedby="basic-addon3">
-    </div><br>
-
-    <div class="list-group" id="myUL">
-     <a class="list-group-item" href="services/Kineskopnye_ELT_televizory_100Gts.html">
-      Кинескопные (ЭЛТ) телевизоры 50Гц
-     </a>
-     <a class="list-group-item" href="services/Kineskopnye_televizory-monobloki_videodvojki.html">
-      Кинескопные (ЭЛТ) телевизоры 100Гц
-     </a>
-     <a class="list-group-item" href="services/ZhK_LCD_televizory_monitory.html">
-      Кинескопные телевизоры-моноблоки (видеодвойки)
-     </a>
-     <a class="list-group-item" href="services/Remont_ZhK_televizorov_III_klassa_Mystery_Daewoo_BBK_JVC_Rolsen_i_dr.html">
-      ЖК (LCD) телевизоры (мониторы)
-     </a>
-     <a class="list-group-item" href="services/Remont_ZhK_televizora_II_klassa_LG_Samsung_Panasonic_Philips_Sharp_Sony_Toshiba_Thomson_Hitachi_i_dr.html">
-      Ремонт ЖК телевизоров III класса (Mystery, Daewoo, BBK, JVC, Rolsen, и др.)
-     </a>
-     <a class="list-group-item" href="services/Remont_ZhK_televizora_I_klassa_Pioneer_Loewe_DreamVison_Grundig_Fujitsu_Nakamichi_Nec_i_dr.html">
-      Ремонт ЖК телевизора II класса (LG, Samsung, Panasonic, Philips, Sharp, Sony, Toshiba, Thomson, Hitachi и др.):
-     </a>
-     <a class="list-group-item" href="services/Plazmennye_televizory_paneli.html">
-      Ремонт ЖК телевизора I класса (Pioneer, Loewe, DreamVison, Grundig, Fujitsu, Nakamichi, Nec и др.):
-     </a>
-     <a class="list-group-item" href="services/Plazmennye_televizory_III_klassa_Daewoo_BBK_JVC_Rolsen_Mystery_Erisson_i_dr.html">
-      Плазменные телевизоры (панели)
-     </a>
-     <a class="list-group-item" href="services/Plazmennye_televizory_II_klassa_LG_Philips_Samsung_Toshiba_Panasonic_Sharp_Thomson_i_dr.html">
-      Плазменные телевизоры III класса (Daewoo, BBK, JVC, Rolsen, Mystery, Erisson и др.):
-     </a>
-     <a class="list-group-item" href="services/ZhK_televizory_I_klassa_Pioneer_Loewe_DreamVison_Grundig_Nakamichi_Nec_Fujitsu_Hitachi_Sony_i_dr.html">
-      Плазменные телевизоры II класса (LG, Philips, Samsung, Toshiba, Panasonic, Sharp, Thomson и др.):
-     </a>
-     <a class="list-group-item" href="services/Proektsionnye_televizory_i_videoproektory.html">
-      ЖК телевизоры I класса (Pioneer, Loewe, DreamVison, Grundig, Nakamichi, Nec, Fujitsu, Hitachi, Sony и др.):
-     </a>
-     <a class="list-group-item" href="services/Videokamery.html">
-      Проекционные телевизоры и видеопроекторы
-     </a>
-     <a class="list-group-item" href="services/Avtoelektronika.html">
-      Видеокамеры
-     </a>
-     <a class="list-group-item" href="services/SVCh-pechi.html">
-      Автоэлектроника
-     </a>
-     <a class="list-group-item" href="services/Remont_melkoj_bytovoj_tehniki.html">
-      СВЧ-печи
-     </a>
-     <a class="list-group-item" href="services/Domashnie_kinoteatry_muzykalnye_tsentry_usiliteli_sabvufery_resivery_proigryvateli_akustika.html">
-      Ремонт мелкой бытовой техники
-     </a>
-     <a class="list-group-item" href="services/Istochniki_besperebojnogo_pitanija_UPS_stabilizatory_naprjazhenija_invertory_naprjazhenija_impulsnye_bloki_pitanija_setevye_filtry.html">
-      Домашние кинотеатры, музыкальные центры, усилители, сабвуферы, ресиверы, проигрыватели, акустика
-     </a>
-     <a class="list-group-item" href="services/Orgtehnika.html">
-      Источники бесперебойного питания (UPS), стабилизаторы напряжения, инверторы напряжения, импульсные блоки питания, сетевые фильтры
-     </a>
-     <a class="list-group-item" href="services/Remont_shlagbaumov_turniketov_rolstaven.html">
-      Оргтехника
-     </a>
-     <a class="list-group-item" href="services/Kompjutery.html">
-      Ремонт шлагбаумов, турникетов, рольставен
-     </a>
-     <a class="list-group-item" href="services/Ustanovka_profilaktika_remont_zamena_komplektujuschih.html">
-      Компьютеры
-     </a>
-     <a class="list-group-item" href="services/Nastrojka_lokalnyh_i_besprovodnyh_setej.html">
-      Установка, профилактика, ремонт, замена комплектующих
-     </a>
-     <a class="list-group-item" href="services/Ustanovka_i_nastrojka_operatsionnyh_sistem_s_distributiva_zakazchika.html">
-      Настройка локальных и беспроводных сетей
-     </a>
-     <a class="list-group-item" href="services/Remont_noutbukov.html">
-      Установка и настройка операционных систем с дистрибутива заказчика
-     </a>
-     <a class="list-group-item" href="services/Raboty_po_zamene_uzlov_i_modulej.html">
-      Ремонт ноутбуков
-     </a>
-     <a class="list-group-item" href="services/Raboty_po_remontu_uzlov_i_modulej.html">
-      Работы по замене узлов и модулей
-     </a>
-     <a class="list-group-item" href="services/Dostavka_tehniki_v_masterskuju_iz_masterskoj.html">
-      Работы по ремонту узлов и модулей
-     </a>
-     <a class="list-group-item" href="services/Diagnostika_oplachivaetsja_v_sluchae_otkaza_ot_remonta_apparatury.html">
-      Доставка техники в мастерскую (из мастерской)
-     </a>
-     <a class="list-group-item" href="services/DOPOLNITELNYE_USLUGI.html">
-      Диагностика (оплачивается в случае отказа от ремонта аппаратуры)
-     </a>
-     <a class="list-group-item" href="services/Ustanovka_podkljuchenie_i_nastrojka_tele_i_video_tehniki.html">
-      ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ
-     </a>
-    </div>
-
    </div>
    <div class="info-column col-md-4">
     <h3 class="info-title bg-info">

@@ -1,0 +1,2397 @@
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Kineskopnye_ELT_televizory_100Gts.html">
+      Кинескопные (ЭЛТ) телевизоры 50Гц
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 20" и менее
+    </h5>
+   </td>
+   <td class="right">
+    350 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 21"-25"
+    </h5>
+   </td>
+   <td class="right">
+    350 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 26"-29"
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 30"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Kineskopnye_televizory-monobloki_videodvojki.html">
+      Кинескопные (ЭЛТ) телевизоры 100Гц
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 21"-25"
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 26"-29"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 30"
+    </h5>
+   </td>
+   <td class="right">
+    1000 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/ZhK_LCD_televizory_monitory.html">
+      Кинескопные телевизоры-моноблоки (видеодвойки)
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Моноблоки 17" и менее
+    </h5>
+   </td>
+   <td class="right">
+    350 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Моноблоки 19"-21"
+    </h5>
+   </td>
+   <td class="right">
+    350 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Моноблоки 22"-25"
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Моноблоки более 26"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Remont_ZhK_televizorov_III_klassa_Mystery_Daewoo_BBK_JVC_Rolsen_i_dr.html">
+      ЖК (LCD) телевизоры (мониторы)
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 14" и менее
+    </h5>
+   </td>
+   <td class="right">
+    350 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 15"-17"
+    </h5>
+   </td>
+   <td class="right">
+    400 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 19"-20"
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 21"-24"
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 25"-30"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Remont_ZhK_televizora_II_klassa_LG_Samsung_Panasonic_Philips_Sharp_Sony_Toshiba_Thomson_Hitachi_i_dr.html">
+      Ремонт ЖК телевизоров III класса (Mystery, Daewoo, BBK, JVC, Rolsen, и др.)
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 31"-36"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 37"-41"
+    </h5>
+   </td>
+   <td class="right">
+    1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 42"-50"
+    </h5>
+   </td>
+   <td class="right">
+    1300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 51"
+    </h5>
+   </td>
+   <td class="right">
+    1500 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Remont_ZhK_televizora_I_klassa_Pioneer_Loewe_DreamVison_Grundig_Fujitsu_Nakamichi_Nec_i_dr.html">
+      Ремонт ЖК телевизора II класса (LG, Samsung, Panasonic, Philips, Sharp, Sony, Toshiba, Thomson, Hitachi и др.):
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 31"-36"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 37"-41"
+    </h5>
+   </td>
+   <td class="right">
+    1200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 42"-50"
+    </h5>
+   </td>
+   <td class="right">
+    1500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 51"
+    </h5>
+   </td>
+   <td class="right">
+    1800 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Plazmennye_televizory_paneli.html">
+      Ремонт ЖК телевизора I класса (Pioneer, Loewe, DreamVison, Grundig, Fujitsu, Nakamichi, Nec и др.):
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 31"-36"
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 37"-41"
+    </h5>
+   </td>
+   <td class="right">
+    1300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 42"-50"
+    </h5>
+   </td>
+   <td class="right">
+    1500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 51"
+    </h5>
+   </td>
+   <td class="right">
+    1900 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Plazmennye_televizory_III_klassa_Daewoo_BBK_JVC_Rolsen_Mystery_Erisson_i_dr.html">
+      Плазменные телевизоры (панели)
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Plazmennye_televizory_II_klassa_LG_Philips_Samsung_Toshiba_Panasonic_Sharp_Thomson_i_dr.html">
+      Плазменные телевизоры III класса (Daewoo, BBK, JVC, Rolsen, Mystery, Erisson и др.):
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 32" и менее
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 33"-40"
+    </h5>
+   </td>
+   <td class="right">
+    1300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 41"-45"
+    </h5>
+   </td>
+   <td class="right">
+    1500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 46"-50"
+    </h5>
+   </td>
+   <td class="right">
+    1900 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 51"
+    </h5>
+   </td>
+   <td class="right">
+    2500р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/ZhK_televizory_I_klassa_Pioneer_Loewe_DreamVison_Grundig_Nakamichi_Nec_Fujitsu_Hitachi_Sony_i_dr.html">
+      Плазменные телевизоры II класса (LG, Philips, Samsung, Toshiba, Panasonic, Sharp, Thomson и др.):
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 32" и менее
+    </h5>
+   </td>
+   <td class="right">
+    900 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 33"-40"
+    </h5>
+   </td>
+   <td class="right">
+    1400 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 41"-45"
+    </h5>
+   </td>
+   <td class="right">
+    1600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 46"-50"
+    </h5>
+   </td>
+   <td class="right">
+    2000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 51"
+    </h5>
+   </td>
+   <td class="right">
+    2600 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Proektsionnye_televizory_i_videoproektory.html">
+      ЖК телевизоры I класса (Pioneer, Loewe, DreamVison, Grundig, Nakamichi, Nec, Fujitsu, Hitachi, Sony и др.):
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 32" и менее
+    </h5>
+   </td>
+   <td class="right">
+    1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 33"-40"
+    </h5>
+   </td>
+   <td class="right">
+    1500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 41"-45"
+    </h5>
+   </td>
+   <td class="right">
+    1700 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 46"-50"
+    </h5>
+   </td>
+   <td class="right">
+    2100 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю более 51"
+    </h5>
+   </td>
+   <td class="right">
+    2700 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Videokamery.html">
+      Проекционные телевизоры и видеопроекторы
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 44" и менее
+    </h5>
+   </td>
+   <td class="right">
+    1200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Телевизоры с диагональю 45" и более
+    </h5>
+   </td>
+   <td class="right">
+    1500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена лампы в проекционном телевизоре (видеопроекторе)
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт/чистка видеопроекторы переносные и портативные
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт/чистка видеопроекторы стационарные
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт/чистка видеопроекторы профессиональные
+    </h5>
+   </td>
+   <td class="right">
+    от 3000 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Avtoelektronika.html">
+      Видеокамеры
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Видеокамеры кассетные VHS, S-VHS-C, S-VHS, Video 8, VHS-C, Digital 8
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Видеокамеры кассетные цифровые DV
+    </h5>
+   </td>
+   <td class="right">
+    1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Видеокамеры c DVD или с HDD
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Видеокамеры профессиональные и High Definition
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/SVCh-pechi.html">
+      Автоэлектроника
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Автомагнитола, автоусилитель
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     CD-чейнджер
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Автомагнитолы MP3
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Автомагнитолы CD/DVD с моторизованным ЖК дисплеем
+    </h5>
+   </td>
+   <td class="right">
+    от 800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Двухдиновые автомагнитолы
+    </h5>
+   </td>
+   <td class="right">
+    от 800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Сабвуферы
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     GPS навигаторы
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Remont_melkoj_bytovoj_tehniki.html">
+      СВЧ-печи
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     СВЧ-печь соло, с грилем
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     СВЧ с конвекцией, инверторные
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Domashnie_kinoteatry_muzykalnye_tsentry_usiliteli_sabvufery_resivery_proigryvateli_akustika.html">
+      Ремонт мелкой бытовой техники
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Радиотелефон
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Проводной телефон
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Пылесос
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Чайник, утюг, электробритва, фен
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Кухонный комбайн, мясорубка, миксер, хлебопечка
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Кофеварка, кофемашина
+    </h5>
+   </td>
+   <td class="right">
+    от 400 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Аэрогриль
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Парогенератор бытовой
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Парогенератор профессиональный
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Istochniki_besperebojnogo_pitanija_UPS_stabilizatory_naprjazhenija_invertory_naprjazhenija_impulsnye_bloki_pitanija_setevye_filtry.html">
+      Домашние кинотеатры, музыкальные центры, усилители, сабвуферы, ресиверы, проигрыватели, акустика
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Домашние кинотеатры
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Музыкальные центры
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Усилители мощности до 100 Вт
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Усилители мощности более 100 Вт
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Сабвуферы
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ресиверы,,
+    </h5>
+   </td>
+   <td class="right">
+    от 600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ресиверы,, HI-END
+    </h5>
+   </td>
+   <td class="right">
+    от 800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Спутниковые ресиверы
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     DVD/CD/MD/HD-проигрыватели
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Blu-ray проигрыватели
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     DVD/CD-рекордеры
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Портативные DVD/HD плееры
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     MP3 плееры
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Магнитолы переносные
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Радиоприёмники
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Акустические системы (колонки)
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Мультимедийная акустика
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Мультимедийная акустика
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Восстановление, перемотка динамиков
+    </h5>
+   </td>
+   <td class="right">
+    от 800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Наушники
+    </h5>
+   </td>
+   <td class="right">
+    от 200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Микрофоны
+    </h5>
+   </td>
+   <td class="right">
+    от 200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Медиаплеер
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Электронная книга
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Профессиональные колонки, сабвуферы, усилители
+    </h5>
+   </td>
+   <td class="right">
+    от 1500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Электронные игрушки
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Игровые приставки стационарные
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Игровые приставки портативные
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Orgtehnika.html">
+      Источники бесперебойного питания (UPS), стабилизаторы напряжения, инверторы напряжения, импульсные блоки питания, сетевые фильтры
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Источники бесперебойного питания UPS до 6 kVa
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Источники бесперебойного питания UPS от 6 kVa до 15 kVa
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Источники бесперебойного питания UPS от 20 kVa до 40 kVa
+    </h5>
+   </td>
+   <td class="right">
+    от 800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Источники бесперебойного питания UPS от 20 kVa от 120 kVa
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена аккумуляторов UPS
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Стабилизатор сетевого напряжения (зависит от мощности)
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Преобразователи AD/DC и DC/DC (зависит от мощности)
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Инверторы напряжения, инверторы ламп подсветки LCD (зависит от мощности и диагонали LCD)
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Импульсные блоки питания (зависит от мощности и сложности)
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Сетевые фильтры, фильтры-удлинители
+    </h5>
+   </td>
+   <td class="right">
+    от 100 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Remont_shlagbaumov_turniketov_rolstaven.html">
+      Оргтехника
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Инженерные системы формата А0, дубликаторы
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Копировальные аппараты и МФУ до 12 коп/мин
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Копировальные аппараты и МФУ от 13 до 20 коп/мин
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Копировальные аппараты и МФУ от 21 до 30 коп/мин
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Копировальные аппараты и МФУ от 31 до 50 коп/мин
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Копировальные аппараты и МФУ свыше 50 коп/мин
+    </h5>
+   </td>
+   <td class="right">
+    1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Лазерные монохромные принтеры до 8 стр/мин
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Лазерные монохромные принтеры от 9 до 20 стр/мин
+    </h5>
+   </td>
+   <td class="right">
+    от 400 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Лазерные монохромные принтеры свыше 20 стр/мин
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Струйные принтеры формата А-4
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Струйные принтеры формата А-3
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Цветные аппараты и МФУ от 24 коп/мин
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Цветные лазерные принтеры
+    </h5>
+   </td>
+   <td class="right">
+    от 600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Матричные принтеры
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт факсов
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт шредеров (уничтожителей)
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт ризографов
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт сканеров
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Kompjutery.html">
+      Ремонт шлагбаумов, турникетов, рольставен
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Шлагбаумы
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Турникеты
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Рольставни
+    </h5>
+   </td>
+   <td class="right">
+    от 1500 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Ustanovka_profilaktika_remont_zamena_komplektujuschih.html">
+      Компьютеры
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Nastrojka_lokalnyh_i_besprovodnyh_setej.html">
+      Установка, профилактика, ремонт, замена комплектующих
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Установка материнской платы, блока питания, HDD, процессора, вентилятора
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Установка CD-ROM, FDD, внутреннего/внешнего модема, видео/звуковой/сетевой платы/TV-тюнера, оперативной памяти
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Установка сканера/принтера, замена картриджа
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена корпуса
+    </h5>
+   </td>
+   <td class="right">
+    650 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Ustanovka_i_nastrojka_operatsionnyh_sistem_s_distributiva_zakazchika.html">
+      Настройка локальных и беспроводных сетей
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Создание подключения к Интернет по беспроводному соединению
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Монтаж точки доступа Wi-Fi (1 шт.)
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Настройка безопасности Wi-Fi, организация шифрования данных в сети Wi-Fi
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Настройка роутера
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Подключение и настройка точки доступа (1 шт.)
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Подключение и настройка сетевого принтера
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Настройка комплектующих и ПО
+    </h5>
+   </td>
+   <td class="right">
+    от 200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Установка программного обеспечения с дистрибутива заказчика (без настройки)
+    </h5>
+   </td>
+   <td class="right">
+    200 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Remont_noutbukov.html">
+      Установка и настройка операционных систем с дистрибутива заказчика
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Первоначальная диагностика
+    </h5>
+   </td>
+   <td class="right">
+    250 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Установка и настройка WINDOWS
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Работа с реестром Windows
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Настройка BIOS
+    </h5>
+   </td>
+   <td class="right">
+    200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Перенос и сохранение данных
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Выявление плавающей ошибки в ПО/АО
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Поиск и устранение вирусов
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Комплексная антивирусная профилактика
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Оптимизация и настройка системы
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Восстановление ПО
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Восстановление HDD
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Raboty_po_zamene_uzlov_i_modulej.html">
+      Ремонт ноутбуков
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Аппаратная диагностика без полной разборки аппарата
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Аппаратная диагностика с полной разборкой аппарата
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Обновление BIOS
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Профилактические работы без химической чистки узлов
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Профилактические работы с химической чисткой узлов
+    </h5>
+   </td>
+   <td class="right">
+    от 800 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Raboty_po_remontu_uzlov_i_modulej.html">
+      Работы по замене узлов и модулей
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена CD (DWD) ROM, памяти, жесткого диска (без стоимости запчастей и без разборки ноутбука)
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена системы охлаждения ноутбука
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена плат расширения
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена клавиатуры
+    </h5>
+   </td>
+   <td class="right">
+    450 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена матрицы (без стоимости деталей)
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена системной платы ноутбука
+    </h5>
+   </td>
+   <td class="right">
+    1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена прочих узлов и модулей ноутбука
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Dostavka_tehniki_v_masterskuju_iz_masterskoj.html">
+      Работы по ремонту узлов и модулей
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт системы охлаждения ноутбука
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт внутренних шлейфов ноутбука
+    </h5>
+   </td>
+   <td class="right">
+    от 600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт внешнего блока питания
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт или замена клавиши
+    </h5>
+   </td>
+   <td class="right">
+    от 100 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Замена батареи питания CMOS
+    </h5>
+   </td>
+   <td class="right">
+    400 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Сброс утерянного пароля BIOS (в зависимости от версии BIOS)
+    </h5>
+   </td>
+   <td class="right">
+    от 600 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт материнской платы (простой)
+    </h5>
+   </td>
+   <td class="right">
+    800 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт материнской платы (сложный)
+    </h5>
+   </td>
+   <td class="right">
+    от 1000 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт матрицы
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт корпусных деталей (простой)
+    </h5>
+   </td>
+   <td class="right">
+    900 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Ремонт корпусных деталей (сложный)
+    </h5>
+   </td>
+   <td class="right">
+    1600 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Diagnostika_oplachivaetsja_v_sluchae_otkaza_ot_remonta_apparatury.html">
+      Доставка техники в мастерскую (из мастерской)
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Доставка легкой и малогабаритной техники
+    </h5>
+   </td>
+   <td class="right">
+    200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Доставка тяжелой и крупногабаритной
+    </h5>
+   </td>
+   <td class="right">
+    от 300 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/DOPOLNITELNYE_USLUGI.html">
+      Диагностика (оплачивается в случае отказа от ремонта аппаратуры)
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Диагностика устройств без полной разборки
+    </h5>
+   </td>
+   <td class="right">
+    300 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Диагностика устройств с полной разборкой
+    </h5>
+   </td>
+   <td class="right">
+    600 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Ustanovka_podkljuchenie_i_nastrojka_tele_i_video_tehniki.html">
+      ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Срочный ремонт (по возможности)
+    </h5>
+   </td>
+   <td class="right">
+    Плюс 30%
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Вызов мастера на дом (в зависимости от адреса клиента)
+    </h5>
+   </td>
+   <td class="right">
+    от 200 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Оплата ложного вызова
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+ </table>
+</div>
+<div class="table-responsive">
+ <table class="table">
+  <tr>
+   <td>
+    <h4>
+     <a href="services/Ustanovka_plazmennyh_i_ZhK_televizorov_videoproektorov_na_stenku_ili_potolok.html">
+      Установка, подключение и настройка теле и видео техники
+     </a>
+    </h4>
+   </td>
+   <td class="right">
+    <span class="glyphicon glyphicon-ruble">
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Подключение и настройка ТЕЛЕВИЗОРА
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Подключение и настройка ВИДЕО/DVD АППАРАТУРЫ
+    </h5>
+   </td>
+   <td class="right">
+    500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Подключение и настройка ДОМАШНЕГО КИНОТЕАТРА
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Подключение и настройка ЗВУКОВОЙ АППАРАТУРЫ
+    </h5>
+   </td>
+   <td class="right">
+    от 500 р.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h5>
+     Установка плазменных и ЖК телевизоров, видеопроекторов на стенку или потолок
+    </h5>
+   </td>
+   <td class="right">
+    ст-сть кронштейнов + 1500р.
+   </td>
+  </tr>
+ </table>
+</div>
